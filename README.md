@@ -1,1 +1,1 @@
-This is a Final Assignmnet in Course course. 
+This is a Final Assignmnet in Coursera course. 
